@@ -1,10 +1,10 @@
-# Hi, I'm Ahmed Galal 👋
+# Hi, I'm Ahmed Galal 
 
 **AI Engineer and senior full-stack engineer.** I build LLM-powered products end to end:
 retrieval pipelines, tool-using agents, fine-tuned models, and the TypeScript backends
 and React frontends that ship them to users.
 
-📍 Egypt · Open to roles in the GCC, Europe, and remote
+ Egypt · Open to roles in the GCC, Europe, and remote
 
 ## What I work on
 
@@ -39,5 +39,5 @@ _New AI projects (RAG, agents, fine-tuning) are being added here._
 
 ## Get in touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedgalalmohamed/)
-- ✉️ [ahmedgalalmohamed2016@gmail.com](mailto:ahmedgalalmohamed2016@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/ahmedgalalmohamed/)
+-  [ahmedgalalmohamed2016@gmail.com](mailto:ahmedgalalmohamed2016@gmail.com)
